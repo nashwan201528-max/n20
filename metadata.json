@@ -1,0 +1,8 @@
+{
+  "name": "Remix FinCalc Pro",
+  "description": "Professional-grade transaction calculator with scientific tools, loan planning, and tax features built for Android using Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
